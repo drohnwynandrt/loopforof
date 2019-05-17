@@ -1,0 +1,1 @@
+Practicing loops with "for" and "of"
